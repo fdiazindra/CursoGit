@@ -1,4 +1,0 @@
-# Curso Git #
-
-    Ejercicios
-    Teoria
